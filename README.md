@@ -1,4 +1,12 @@
-<img src="https://github-readme-stats.vercel.app/api?username=8nkit&count_private=true&show_icons=true">
+<h5 align="left">
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8nkit&hide=html&layout=compact" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=8nkit&theme=default" /></td>
+  </tr>   
+</table>
+</center>
 
 
 #### My project without pinned
