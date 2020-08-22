@@ -9,4 +9,4 @@
 | [KirayeKa](https://github.com/8nkit/KirayeKa_app)        | ⏲ Andriod app which provides Goods and Services on Rent                   |
 | [Chat Surveillance System](https://github.com/8nkit/DAAproject) | 🕹 It checks abusive content in chat database |
 | [Mini Whatsapp](https://github.com/8nkit/New-Mini-WhatsApp-master) | 💬 WhatsApp Clone Mini   |
-| [PDF Viewer](https://github.com/8nkit/PDF-Viewer) | 📋 Android app for viewing PDFs from directory,assets and internet |
+| [Quiz Web App](https://github.com/8nkit/QuizAppReact) | 📋 Web App for knowledge quiz questions |
