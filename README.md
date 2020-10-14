@@ -13,7 +13,7 @@
 
 |Name|Description|
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Leaf Blight Detection](https://github.com/8nkit/Leaf-Blight-DL-Python)           | ⭕ Android app which detect the blight on plant leaves                              |
+| [Leaf Blight Detection](https://github.com/8nkit/Leaf-Blight-Detection)           | ⭕ Android app which detect the blight on plant leaves                              |
 | [KirayeKa](https://github.com/8nkit/KirayeKa_app)        | ⏲ Andriod app which provides Goods and Services on Rent                   |
 | [Chat Surveillance System](https://github.com/8nkit/DAAproject) | 🕹 It checks abusive content in chat database |
 | [Mini Whatsapp](https://github.com/8nkit/New-Mini-WhatsApp-master) | 💬 WhatsApp Clone Mini   |
